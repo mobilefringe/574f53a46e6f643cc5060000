@@ -59,8 +59,8 @@
                 <li><a href="/dine">DINE</a></li>
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/greenvalley-services">SERVICES</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/greenvalley-contact-us">CONTACT</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/costamesa-services">SERVICES</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/costamesa-contact-us">CONTACT</a></li>
             </ul>
         </div>
         <div class="row">
@@ -97,8 +97,8 @@
                     <div class="dropdown">
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
-                            <li><a href="/pages/greenvalley-services">SERVICES</a></li>
-                            <li><a href="/pages/greenvalley-contact-us">CONTACT</a></li>
+                            <li><a href="/pages/costamesa-services">SERVICES</a></li>
+                            <li><a href="/pages/costamesa-contact-us">CONTACT</a></li>
                         </ul>
                     </div>
                     <div class="clearfix"></div>
@@ -137,7 +137,7 @@
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
                             <input id="newsletter_agree" type="checkbox" />
-                            I agree to receive newsletters from The District at Green Valley Ranch.
+                            I agree to receive newsletters from Costa Mesa Courtyards.
                         </label>
                         <p class="hidden_now" id="success_subscribe">
                             Thank you for subscribing!
@@ -155,7 +155,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 The District at Green Valley Ranch
+                © Copyright 2016 Costa Mesa Courtyards
             </p>
             <p class="footer_text">
                 2225 Village Walk Drive, Suite 171, Henderson, NV 89052
@@ -172,7 +172,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2016 The District at Green Valley Ranch
+                    © Copyright 2016 Costa Mesa Courtyards
                 </p>
                 <p class="footer_text">
                     Powered by <a href="http://mallmaverick.com" target="_blank">Mall Maverick</a>
