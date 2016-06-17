@@ -27,13 +27,13 @@
         var pathArray = window.location.pathname.split( '/' );
         var slug = pathArray[pathArray.length-1];
          if (slug == "costamesa-privacy-policy"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_events.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_privacy.jpg")
         }
        if (slug == "costamesa-services"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_events.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_services.jpg")
         }
         if (slug == "costamesa-contact-us"){
-           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_events.jpg")
+           $('#side_image').attr('src', "http://assets.codecloudapp.com/sites/574f53a46e6f643cc5060000/image/jpeg/undefined/cmc_440x1200_side_contact.jpg")
         }
         
         prefix = get_prefix();
