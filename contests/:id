@@ -19,7 +19,7 @@
                     <input id="property_id" name="contest[property_id]" type="hidden" value="{{property_id}}"/>
                     <input id="contest_id" name="contest[contest_id]" type="hidden"  value="{{id}}" />
                     <input type="hidden" name="cm-name" id="cm-name" />
-                    <div class="row margin_30">
+                    <div class="row ">
                         <div class="col-md-6">
                             <label for="first_name">First Name *</label>  
                             <input class="form-control" id="first_name" name="contest[first_name]" type="text" required data-validation="required"  />
@@ -29,7 +29,7 @@
                             <input class="form-control" id="last_name" name="contest[last_name]" type="text" required data-validation="required" />
                         </div>
                     </div>
-                    <div class="row margin_30">
+                    <div class="row ">
                         <div class="col-md-6">
                             <label for="email">Email *</label> 
                             <input class="form-control" id="email" name="contest[email]" type="email" required data-validation-regexp="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" data-validation-error-msg="The input value is incorrect email address" data-validation="custom" />
@@ -39,7 +39,7 @@
                             <input class="form-control" id="phone_number" name="contest[phone]" type="text"  />
                         </div>
                     </div>
-                    <div class="row margin_30">
+                    <div class="row ">
                         <div class="col-md-4">
                             <label for="postal_code">Zip Code</label> 
                             <input class="form-control" id="postal_code" name="contest[postal_code]" type="text"  />
