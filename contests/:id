@@ -39,7 +39,7 @@
                             <input class="form-control" id="phone_number" name="contest[phone]" type="text"  />
                         </div>
                     </div>
-                    <div class="row margin_30">
+                    <div class="row">
                         <div class="col-md-4">
                             <label for="postal_code">Zip Code</label> 
                             <input class="form-control" id="postal_code" name="contest[postal_code]" type="text"  />
