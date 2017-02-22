@@ -30,25 +30,25 @@
                         </div>
                     </div>
                     <div class="row ">
-                        <div class="col-md-6">
+                        <div class="col-md-6 margin_30">
                             <label for="email">Email *</label> 
                             <input class="form-control" id="email" name="contest[email]" type="email" required data-validation-regexp="^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$" data-validation-error-msg="The input value is incorrect email address" data-validation="custom" />
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 margin_30">
                             <label for="phone_number">Phone Number</label>  
                             <input class="form-control" id="phone_number" name="contest[phone]" type="text"  />
                         </div>
                     </div>
                     <div class="row ">
-                        <div class="col-md-4">
+                        <div class="col-md-4 margin_30">
                             <label for="postal_code">Zip Code</label> 
                             <input class="form-control" id="postal_code" name="contest[postal_code]" type="text"  />
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-2 margin_30">
                             <label for="age">Age</label> 
                             <input class="form-control" id="age" name="contest[age]" type="text"  />
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 margin_30">
                             <label for="gender">Gender</label>  
                             <select class="form-control" id="gender" name="contest[gender]">
                                 <option value="male">Male</option>
@@ -57,7 +57,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-12">
+                        <div class="col-md-12 margin_30">
                             <label>
                                 <input id="newsletter_signup" type="checkbox" name="contest[newsletter]" /> 
                                 I agree to receive newsletters from {{property_name}}. You can unsubscribe anytime.
