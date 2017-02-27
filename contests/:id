@@ -59,7 +59,7 @@
                     <div class="row">
                         <div class="col-md-12 margin_30">
                             <label>
-                                <input id="newsletter_signup" type="checkbox" name="contest[newsletter]" /> 
+                                <input id="newsletter_signup" type="checkbox" name="contest[newsletter]" required data-validation="required"/> 
                                 I agree to receive newsletters from {{property_name}}. You can unsubscribe anytime.
                             </label>
                             <p>For more details about personal privacy, please read our <a href="/pages/costamesa-privacy-policy" target="_blank">Privacy Policy.</a></p>
