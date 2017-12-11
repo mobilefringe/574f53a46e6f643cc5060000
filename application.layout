@@ -165,7 +165,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright <span id="current_year" class="current_year"></span> Costa Mesa Courtyards
+                &copy; Copyright <span id="current_year" class="current_year"></span> Costa Mesa Courtyards
             </p>
             <p class="footer_text">
                 1835 Newport Boulevard, Costa Mesa, CA 92627
