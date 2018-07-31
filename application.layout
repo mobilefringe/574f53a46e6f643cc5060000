@@ -55,7 +55,7 @@
     
     <!-- Site data -->
     <script>
-        $.getJSON("//chinospectrum.mallmaverick.com/api/v4/chinospectrum/subcategories.json?bust=true").done(function(data){
+        $.getJSON("//costamesa.mallmaverick.com/api/v4/costamesa/subcategories.json?bust=true").done(function(data){
             
         });
         setEndPoint('//costamesa.mallmaverick.com/api/v4/costamesa/all.json');
