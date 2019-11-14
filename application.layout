@@ -91,7 +91,7 @@
                     <!--<a href="#" target="_blank">-->
                     <!--    <span id="social_pinterest"></span>-->
                     <!--</a>-->
-                    <a href="https://www.instagram.com/shopcostamesa/" target="_blank">
+                    <a href="https://www.instagram.com/shopcostamesa/" aria-label="Go to Costa Mesa Courtyards's Facebook page." target="_blank">
                         <span id="social_insta"></span>
                     </a>
                     <!--<a href="#" target="_blank">-->
