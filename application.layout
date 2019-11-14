@@ -82,7 +82,7 @@
             </div>
             <div class="nav_container hidden_phone">
                 <div class="social_links">
-                    <a href="https://www.facebook.com/shopcostamesa" target="_blank">
+                    <a href="https://www.facebook.com/shopcostamesa" aria-label="Go to Costa Mesa Courtyards's Facebook page." target="_blank">
                         <span id="social_facebook"></span>
                     </a>
                     <!--<a href="#" target="_blank">-->
