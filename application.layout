@@ -146,7 +146,8 @@
                 <h5 class="heading">NEWSLETTER SUBSCRIPTION</h5>
                 <div class="newsletter_div">
                     <form action="//mobilefringe.createsend.com/t/d/s/urlyhl/" method="post" id="newsletter_form">
-                        <input name="cm-urlyhl-urlyhl" type="text" placeholder="Subscribe to Newsletter" class="newsletter_control" required />
+                        <label for="newsletter_sub">Subscribe to newsletter</label>
+                        <input name="cm-urlyhl-urlyhl" type="text" placeholder="Subscribe to Newsletter" class="newsletter_control" required id="newsletter_sub" />
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
                             <input id="newsletter_agree" type="checkbox" required />
